@@ -1,4 +1,4 @@
-### Université Paris-Saclay Master ISD (Informatique pour la science des données)
+### Université Paris-Saclay Master Data Science
 
 <!--
 **Kepard/kepard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
