@@ -1,5 +1,1 @@
-## hi :)
-
-Currently at BNP Paribas | MSc IASD @ Dauphine-PSL
-
-*still exploring this world*
+![Animated ASCII island](./kepard-island.gif)
